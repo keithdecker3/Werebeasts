@@ -188,6 +188,8 @@ h1 {
     text-align: left;
     margin-left: 6rem;
     margin-top: 5rem;
+    display: flex;
+    margin-right: 10rem;
 }
 
 h2 {
@@ -228,10 +230,4 @@ footer {
     font-size: 20px;
     text-align: center;
     padding: 1rem;
-}
-
-.answers {
-    display: flex;
-    justify-content: space-between;
-    margin-right: 10rem;
 }
